@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Muaz Ajmal</h1>
+<h1 align="center">Muaz Ajmal</h1>
 
 <p align="center">
   <b>AI Engineer</b> · Voice AI Agents · Workflow Automation · LLM-Powered Robotics<br>
