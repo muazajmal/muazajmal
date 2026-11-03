@@ -24,7 +24,7 @@ I build AI systems that do real work for real businesses. My clients are small a
 
 ### Featured project: Sara, an AI voice receptionist
 
-**[Live demo](https://voice-receptionist-puce.vercel.app)** · **[Source code](https://github.com/muazajmal/Voice-receptionist)**
+**[Live demo](https://voice-receptionist-puce.vercel.app)** · **[Source code](https://github.com/muazajmal/Voice-receptionist)** · **[n8n backend (6 workflows, 199 nodes)](https://github.com/muazajmal/Voice-receptionist/tree/main/n8n-workflows)**
 
 Sara answers a business's calls 24/7. She books appointments, opens support tickets, transfers callers to the right person and takes callbacks, so no call goes unanswered.
 
@@ -33,6 +33,7 @@ Sara answers a business's calls 24/7. She books appointments, opens support tick
 - Each business gets its own data, a live dashboard with email-code sign-in, a Chrome extension with desktop alerts, and a weekly email report
 - Self-serve sign-up sets up a new business automatically, end to end
 - Visitors can talk to Sara on the website by voice or chat
+- Security built in: hashed session tokens, API-key-checked endpoints, prompt-injection defences and per-visitor rate limits
 
 ### More of what I've built
 
